@@ -1,7 +1,6 @@
 # include <stdio.h>
 
-int main ()
-{
+int main (){
   double v1, v3;
   int v2;
   
@@ -13,3 +12,4 @@ int main ()
 
   printf("%lf：正数部%d, 小数部%f\n",v1,v2,v3);
 }
+

@@ -14,7 +14,7 @@ int main(){
         
     }
 
-    // printf("%u, %d\n", *(mat+2)+1, *(*(mat+2)+1) );
+    printf("%u, %d\n", *(mat+2)+1, *(*(mat+2)+1) );
     printf("%u, %d\n", *(mat+7));
 
     return 0;
